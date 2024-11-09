@@ -7,6 +7,7 @@
 nav{
     display: flex;
     background-color: aqua; 
+    font-family: monospace;
     img {
         height: 40px;
     }
@@ -22,6 +23,7 @@ main{
     h1 {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
+    background-image: url(/image/wallp.jfif );
 }
 
 .begining{
@@ -33,12 +35,24 @@ main{
     h5 {
         color: blue;
     }
-    margin-top: 10%;
+    margin-top: 20%;
+    margin-bottom: 20%;
     
+}
+
+.book{
+    h1 {
+        text-align: center;
+    }
 }
 
 .classes{
     flex-wrap: wrap;
+    margin-bottom: 10%;
+    img {
+        border-radius: 2%;
+    }
+    
 }
 
 .more1{
@@ -46,6 +60,10 @@ main{
         height: 80%;
         width: 100%;
     }
+    p2 {
+        text-decoration: line-through;
+    }
+
 }
 
 .more2{
@@ -53,12 +71,20 @@ main{
         height: 70%;
         width: 100%;
     }
+    p2 {
+        text-decoration: line-through;
+    }
+    
+    
 }
 
 .more3{
     img {
         height: 70%;
         width: 100%;
+    }
+    p2 {
+        text-decoration: line-through;
     }
 }
 
@@ -67,12 +93,18 @@ main{
         height: 100%;
         width: 100%;
     }
+    p2 {
+        text-decoration: line-through;
+    }
 }
 
 .more5{
     img {
         height: 105%;
         width: 104%;
+    }
+    p2 {
+        text-decoration: line-through;
     }
 }
 
@@ -81,6 +113,9 @@ main{
         height: 100%;
         width: 100%;
     }
+    p2 {
+        text-decoration: line-through;
+    }
 }
 
 .more7{
@@ -88,12 +123,18 @@ main{
         height: 100%;
         width: 100%;
     }
+    p2 {
+        text-decoration: line-through;
+    }
 }
 
 .more8{
     img {
         height: 100%;
         width: 100%;
+    }
+    p2 {
+        text-decoration: line-through;
     }
 }
 
