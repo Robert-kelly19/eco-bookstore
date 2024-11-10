@@ -2,10 +2,11 @@
   body {
     margin: 0;
     padding: 0;
-    background-color: lightgrey;   
+    background-color: lightgrey;
+
   }
 }
-  
+
 nav {
   display: flex;
   justify-content: space-between;
@@ -32,12 +33,13 @@ main {
   text-align: center;
 
   h1 {
-    font-family: "chicle", sans-serif;
+    font-family: chicle, sans-serif;
   }
 }
 
-.begining{
-    flex-wrap: wrap;
+.begining {
+  flex-wrap: wrap;
+
   img {
     height: 100%;
     width: 100%;
@@ -48,13 +50,14 @@ main {
   }
 
   margin-top: 20%;
-  margin-bottom: 20%;   
+  margin-bottom: 20%;
+
 }
 
 .book {
   h1 {
     text-align: center;
-    font-family: "chicle", sans-serif;
+    font-family: chicle, sans-serif;
   }
 
   h5 a {
@@ -68,13 +71,14 @@ main {
 .classes {
   flex-wrap: wrap;
   margin-bottom: 10%;
+
   img {
     border-radius: 2%;
   }
 
   h2 {
     margin-bottom: 15%;
-    font-family: "chicle", sans-serif;
+    font-family: chicle, sans-serif;
   }
 
   h5 {
@@ -86,7 +90,7 @@ main {
 
   h4 {
     text-align: center;
-    font-family: "chicle", sans-serif;
+    font-family: chicle, sans-serif;
     font-size: x-large;
     margin-top: -5%;
   }
@@ -102,7 +106,7 @@ main {
     color: white;
   }
 
-    small {
+  small {
     font-size: larger;
     margin-top: -6%;
     border: solid #04385e 1px;
@@ -111,7 +115,7 @@ main {
     border-radius: 9%;
     background-color: #04385e;
     color: white;
-  }   
+  }
 }
 
 .more1 {
@@ -130,7 +134,7 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
@@ -150,8 +154,9 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
-  }    
+    font-family: lora, sans-serif;
+
+  }
 }
 
 .more3 {
@@ -170,7 +175,7 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
@@ -190,7 +195,7 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
@@ -210,7 +215,7 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
@@ -230,7 +235,7 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
@@ -243,14 +248,14 @@ main {
   margin-bottom: 5%;
   padding-bottom: 5%;
 
-    img {
+  img {
     width: 75%;
     margin-left: 28px;
   }
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
@@ -263,25 +268,24 @@ main {
   margin-bottom: 5%;
   padding-bottom: 5%;
 
-    img {
+  img {
     width: 75%;
     margin-left: 28px;
   }
 
   small {
     text-decoration: line-through;
-    font-family: "lora", sans-serif;
+    font-family: lora, sans-serif;
   }
 }
 
 article {
-  h1 {
-     font-family: "chicle", sans-serif;
-  }
   text-align: center;
   margin-top: 10%;
 
- 
+  h1 {
+    font-family: chicle, sans-serif;
+  }
 }
 
 footer {
@@ -289,14 +293,15 @@ footer {
   gap: 2%;
   margin-top: 10%;
   background-color: #04385e;
-  padding-bottom: 1px;   
+  padding-bottom: 1px;
+
 }
 
 .last {
   flex-wrap: wrap;
   align-items: center;
 
-    img {
+  img {
     height: 40px;
   }
 
