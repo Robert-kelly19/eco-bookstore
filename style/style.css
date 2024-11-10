@@ -1,0 +1,333 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgrey;
+}
+
+nav img {
+  height: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: none;
+}
+
+.material-symbols-outlined {
+  color:#04385e;
+}
+
+.sec1-2 img {
+  width: 55%;
+  margin-left: 25%; 
+  border-radius: 5%;
+  margin-top: 8%;
+}
+
+.sec1-2 h4 {
+  text-align: center;
+  margin-top: 4%;
+  color: #04385e;
+}
+
+.lil {
+  font-size: small;
+}
+
+.sec1-2 h1 {
+  text-align: center;
+  font-family: chicle;
+  font-size: larger;
+}
+
+.sec1-2 p {
+  text-align: center;
+  font-size: medium;
+  font-family: lora;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link {
+  display: flex;
+  justify-content: space-around;
+}
+
+.link a h5 {
+  border: solid #04385e 1px;
+  width: 100%;
+  color: #04385e;
+  height: 20px;
+  padding: 5%;
+  border-radius: 5%;
+  margin-top: auto;
+
+}
+
+.link a h5:hover {
+  background-color: #04385e;
+  color: lightgrey;
+}
+
+.link a h6 {
+  border: solid #04385e 1px;
+  width: 100%;
+  background-color: #04385e;
+  color: lightgrey;
+  height: 20px;
+  font-size: inherit;
+  padding: 5%;
+  border-radius: 5%;
+  margin-top: auto;
+}
+
+.link a h6:hover {
+  background-color: lightgrey;
+  color: #04385e;
+}
+
+.sec2-1 img {
+  width: 55%;
+  margin-left: 23%;
+  border-radius: 5%;
+  margin-top: 10%;
+}
+
+.sec2-1 h2 {
+  text-align: center;
+  font-weight: inherit;
+  color: #04385e;
+}
+
+.sec2-1 p {
+  text-align: center;
+  font-size: medium;
+  font-family: lora;
+}
+
+.sec2-1 a h6 {
+  border: solid #04385e 1px;
+  width: 23%;
+  background-color: #04385e;
+  color: lightgrey;
+  height: 23px;
+  font-size: inherit;
+  padding-left: 25px;
+  padding-top: 5px;
+  margin-left: 35%;
+  border-radius: 5%;
+}
+
+.sec2-1 a h6:hover {
+  background-color: lightgrey;
+  color: #04385e;
+}
+
+.sec3-1 h1 {
+  text-align: center;
+  font-family: chicle;
+  font-size: 250%;
+  margin-top: 20%;
+}
+
+.sec3-1 p {
+  text-align: center;
+  font-size: medium;
+  font-family: lora;
+}
+
+.book img {
+  width: 55%;
+  margin-left: 23%;
+  border-radius: 5%;
+  margin-top: 10%;
+}
+
+.book h6 {
+  text-align: center;
+  font-size: large;
+  margin-top: 1%;
+  color: #04385e;
+}
+
+.book h4 {
+  text-align: center;
+  font-family: 'Chicle';
+  font-size: x-large;
+  margin-top: -9%;
+}
+
+.book p {
+  font-size: larger;
+  margin-top: -6%;
+  border: solid #04385e 1px;
+  width: 35%;
+  margin-left: 38%;
+  border-radius: 9%;
+  background-color: #04385e;
+  color: white;
+}
+
+.book1 {
+  background-color: white;
+  width: 75%;
+  padding-bottom: 2%;
+  border-radius: 5%;
+  margin-left: 13%;
+  margin-bottom: 2%;
+}
+
+.book2 {
+  background-color: white;
+  width: 75%;
+  padding-bottom: 2%;
+  border-radius: 5%;
+  margin-left: 13%;
+  margin-bottom: 2%;
+}
+
+.book3 {
+  background-color: white;
+  width: 75%;
+  padding-bottom: 2%;
+  border-radius: 5%;
+  margin-left: 13%;
+  margin-bottom: 2%;
+}
+
+.book4 {
+  background-color: white;
+  width: 75%;
+  padding-bottom: 2%;
+  border-radius: 5%;
+  margin-left: 13%;
+  margin-bottom: 2%;
+}
+
+.sec3-1 a p {
+  border: solid #04385e 1px;
+  width: 31%;
+  background-color: #04385e;
+  color: lightgrey;
+  height: 28px;
+  font-size: inherit;
+  padding-left: 5px;
+  padding-top: 5px;
+  margin-left: 35%;
+}
+
+.sec3-1 a p:hover {
+  background-color: lightgrey;
+  color: #04385e;
+}
+
+.sec4 h1 {
+  text-align: center;
+  font-family: chicle;
+  font-size: 250%;
+  margin-top: 20%;
+}
+
+.sec4 p {
+  text-align: center;
+  font-size: medium;
+  font-family: lora;
+}
+
+.sec4-1 img {
+  width: 55%;
+  margin-left: 23%;
+  border-radius: 5%;
+  margin-top: 10%;
+}
+
+.sec4-1 h4 {
+  text-align: center;
+  font-family: 'Chicle';
+  font-size: x-large;
+  margin-top: 1%;
+}
+
+.sec4-1 h6 {
+  text-align: center;
+  font-size: large;
+  margin-top: -5%;
+  color: #04385e;
+}
+
+.sec5 {
+  background-color: white;
+  margin-top: 20%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  border-radius: 3%;
+}
+
+.sec5 h1 {
+  text-align: center;
+  font-family: chicle;
+  font-size: 250%;
+  margin-top: auto;
+}
+
+.sec5 p {
+  text-align: center;
+  font-size: medium;
+  font-family: lora;
+}
+
+.foot2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 15%;
+}
+
+footer {
+  background-color: #04385e;
+    padding: 1%;
+    margin-top: 10%;
+}
+
+.foot1 {
+  display: flex;
+  justify-content: center;
+}
+
+.foot1 img {
+  width: 70%;
+}
+
+.foot ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.foot ul a {
+  color: #fff;
+}
+
+.foot p {
+  font-family: 'Chicle';
+  font-size: medium;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.foot2-1 img {
+  width: 50%;
+}
+
+.foot2-2 img {
+  width: 50%;
+}
+
+.foot2-3 img {
+  width: 50%;
+}
