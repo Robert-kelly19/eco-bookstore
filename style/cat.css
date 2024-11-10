@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     background-color: lightgrey;
-
   }
 }
 
@@ -51,7 +50,6 @@ main {
 
   margin-top: 20%;
   margin-bottom: 20%;
-
 }
 
 .book {
@@ -155,7 +153,6 @@ main {
   small {
     text-decoration: line-through;
     font-family: lora, sans-serif;
-
   }
 }
 
@@ -282,10 +279,6 @@ main {
 article {
   text-align: center;
   margin-top: 10%;
-
-  h1 {
-    font-family: chicle, sans-serif;
-  }
 }
 
 footer {
@@ -294,7 +287,6 @@ footer {
   margin-top: 10%;
   background-color: #04385e;
   padding-bottom: 1px;
-
 }
 
 .last {
