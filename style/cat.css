@@ -118,16 +118,16 @@ main {
 
 .more1 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -138,16 +138,16 @@ main {
 
 .more2 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -158,16 +158,16 @@ main {
 
 .more3 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -178,16 +178,16 @@ main {
 
 .more4 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -198,16 +198,16 @@ main {
 
 .more5 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -218,16 +218,16 @@ main {
 
 .more6 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -238,16 +238,16 @@ main {
 
 .more7 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
@@ -258,25 +258,25 @@ main {
 
 .more8 {
   background-color: white;
-  width: 75%;
-  padding-top: 2%;
-  border-radius: 5%;
-  margin-left: 13%;
-  margin-bottom: 5%;
-  padding-bottom: 5%;
+  width: 74%;
+  padding-top: 1%;
+  border-radius: 4%;
+  margin-left: 12%;
+  margin-bottom: 4%;
+  padding-bottom: 4%;
 
   img {
-    width: 75%;
-    margin-left: 28px;
+    width: 74%;
+    margin-left: 27px;
   }
 
   small {
     text-decoration: line-through;
-    font-family: lora, sans-serif;
+    font-family: lora, sans-serif,Times, serif;
   }
 }
 
-article {
+Article {
   text-align: center;
   margin-top: 10%;
 }
