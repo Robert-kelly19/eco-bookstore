@@ -74,6 +74,20 @@ a {
   color: lightgrey;
 }
 
+.sec4-1 h6 {
+  text-align: center;
+  font-size: large;
+  margin-top: -5%;
+  color: #04385e;
+}
+
+.book h6 {
+  text-align: center;
+  font-size: large;
+  margin-top: 1%;
+  color: #04385e;
+}
+
 .sec2-1 a h6 {
   border: solid #04385e 1px;
   width: 23%;
@@ -85,20 +99,6 @@ a {
   padding-top: 5px;
   margin-left: 35%;
   border-radius: 5%;
-}
-
-.book h6 {
-  text-align: center;
-  font-size: large;
-  margin-top: 1%;
-  color: #04385e;
-}
-
-.sec4-1 h6 {
-  text-align: center;
-  font-size: large;
-  margin-top: -5%;
-  color: #04385e;
 }
 
 .link a h6 {
@@ -284,7 +284,7 @@ a {
 
 .sec5 h1 {
   text-align: center;
-  font-family: 'Chicle', serif;
+  font-family: "'Chicle', serif";
   font-size: 250%;
   margin-top: auto;
 }
