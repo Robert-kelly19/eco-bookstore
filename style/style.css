@@ -83,7 +83,7 @@ a {
 
 .book h6 {
   text-align: center;
-  font-size: large;
+  font-size: medium;
   margin-top: 1%;
   color: #04385e;
 }
@@ -165,13 +165,13 @@ a {
 .book h4 {
   text-align: center;
   font-family: Chicle, serif;
-  font-size: xx-large;
-  margin-top: -5%;
+  font-size: x-large;
+  margin-top: -15%;
 }
 
 .book p {
-  font-size: larger;
-  margin-top: -5%;
+  font-size: small;
+  margin-top: -11%;
   border: solid #04385e 1px;
   width: 35%;
   margin-left: 30%;
@@ -333,4 +333,56 @@ footer {
 
 .foot2-3 img {
   width: 50%;
+}
+
+@media (min-width: 760px) {
+  nav {
+    margin: 1%;
+  }
+
+  nav img {
+    height: 50px;
+  }
+
+  nav .material-symbols-outlined {
+    display: none;
+  }
+
+  nav ul {
+    display: flex;
+    gap: 2%;
+    margin-right: 2%;
+  }
+
+  nav ul a {
+    color: #04385e;
+  }
+
+  nav ul a:hover {
+    color: #fff;
+    background-color: #04385e;
+    border: solid #04385e 1px;
+  }
+
+  .sec1-1 {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+  }
+
+  .sec1-2 h4 {
+    text-align: left;
+    margin-top: 4%;
+    color: #04385e;
+  }
+
+  .sec1-2 h1 {
+    text-align: center;
+    font-size: 300%;
+  }
+
+  .sec1-2 p {
+    margin-top: -5%;
+    font-size: x-large;
+    font-weight: lighter;
+  }
 }
