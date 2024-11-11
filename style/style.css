@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 2px;
+  padding: 2px;
   background-color: lightgrey;
 }
 
@@ -356,6 +356,7 @@ footer {
 
   nav ul a {
     color: #04385e;
+    display: block;
   }
 
   nav ul a:hover {

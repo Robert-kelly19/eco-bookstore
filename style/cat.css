@@ -1,19 +1,17 @@
-@media (max-width: 600px) {
-  body {
-    margin: 0;
-    padding: 0;
-    background-color: lightgrey;
-  }
+body {
+  margin: 2px;
+  padding: 2px;
+  background-color: lightgrey;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
   margin: 3%;
+}
 
-  img {
-    height: 40px;
-  }
+nav img {
+  height: 40px;
 }
 
 a {
@@ -30,90 +28,88 @@ main {
 
 .starting {
   text-align: center;
+}
 
-  h1 {
-    font-family: chicle, sans-serif;
-  }
+.starting h1 {
+  font-family: chicle, sans-serif;
 }
 
 .begining {
   flex-wrap: wrap;
-
-  img {
-    height: 100%;
-    width: 100%;
-  }
-
-  h5 {
-    color: blue;
-  }
-
   margin-top: 20%;
   margin-bottom: 20%;
 }
 
-.book {
-  h1 {
-    text-align: center;
-    font-family: chicle, sans-serif;
-  }
-
-  h5 a {
-    border: solid #04385e 1px;
-    background-color: #04385e;
-    color: white;
-    border-radius: 5%;
-  }
+.begining img {
+  height: 100%;
+  width: 100%;
 }
+
+.begining h5 {
+  color: blue;
+}
+
+.book h1 {
+  text-align: center;
+  font-family: chicle, sans-serif;
+}
+
+.book h5 a {
+  border: solid #04385e 1px;
+  background-color: #04385e;
+  color: white;
+  border-radius: 5%;
+}
+
 
 .classes {
   flex-wrap: wrap;
   margin-bottom: 10%;
+}
 
-  img {
-    border-radius: 2%;
-  }
+.classes img {
+  border-radius: 2%;
+}
 
-  h2 {
-    margin-bottom: 15%;
-    font-family: chicle, sans-serif;
-  }
+.classes h2 {
+  margin-bottom: 15%;
+  font-family: chicle, sans-serif;
+}
 
-  h5 {
-    text-align: center;
-    font-size: medium;
-    margin-top: 1%;
-    color: #04385e;
-  }
+.classes h5 {
+  text-align: center;
+  font-size: medium;
+  margin-top: 1%;
+  color: #04385e;
+}
 
-  h4 {
-    text-align: center;
-    font-family: chicle, sans-serif;
-    font-size: x-large;
-    margin-top: -5%;
-  }
+.classes h4 {
+  text-align: center;
+  font-family: chicle, sans-serif;
+  font-size: x-large;
+  margin-top: -5%;
+}
 
-  p {
-    font-size: larger;
-    margin-top: -6%;
-    border: solid #04385e 1px;
-    width: 35%;
-    margin-left: 38%;
-    border-radius: 9%;
-    background-color: #04385e;
-    color: white;
-  }
+.classes p {
+  font-size: larger;
+  margin-top: -6%;
+  border: solid #04385e 1px;
+  width: 35%;
+  margin-left: 38%;
+  border-radius: 9%;
+  background-color: #04385e;
+  color: white;
+}
 
-  small {
-    font-size: larger;
-    margin-top: -6%;
-    border: solid #04385e 1px;
-    width: 35%;
-    margin-left: 38%;
-    border-radius: 9%;
-    background-color: #04385e;
-    color: white;
-  }
+.classes small {
+  font-size: larger;
+  margin-top: -6%;
+  border: solid #04385e 1px;
+  width: 35%;
+  margin-left: 38%;
+  border-radius: 9%;
+  background-color: #04385e;
+  color: white;
 }
 
 .more1 {
@@ -124,16 +120,15 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
+.more1 img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
-
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more1 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more2 {
@@ -144,16 +139,16 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
+.more2 img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more2 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more3 {
@@ -164,16 +159,15 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
+.more3 img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
-
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more3 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more4 {
@@ -184,16 +178,16 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
+.more4 img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more4 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more5 {
@@ -204,16 +198,16 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
+.more5 img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more5 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more6 {
@@ -224,16 +218,15 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
+.more6  img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
-
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more6 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more7 {
@@ -244,16 +237,16 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
+}
 
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
+.more7 img {
+  width: 74%;
+  margin-left: 27px;
+}
 
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif;
-  }
+.more7 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif;
 }
 
 .more8 {
@@ -264,17 +257,18 @@ main {
   margin-left: 12%;
   margin-bottom: 4%;
   padding-bottom: 4%;
-
-  img {
-    width: 74%;
-    margin-left: 27px;
-  }
-
-  small {
-    text-decoration: line-through;
-    font-family: lora, sans-serif, Times, serif;
-  }
 }
+
+.more8 img {
+  width: 74%;
+  margin-left: 27px;
+}
+
+.more8 small {
+  text-decoration: line-through;
+  font-family: lora, sans-serif, Times, serif;
+}
+
 
 article {
   text-align: center;
@@ -292,21 +286,49 @@ footer {
 .last {
   flex-wrap: wrap;
   align-items: center;
+}
+.last img {
+  height: 40px;
+}
 
-  img {
-    height: 40px;
+.last ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.last ul a {
+  color: white;
+}
+ .last a img {
+  mix-blend-mode: multiply;
+}
+
+@media (min-width: 760px) {
+  nav {
+    margin: 1%;
   }
 
-  ul {
+  nav img {
+    height: 50px;
+  }
+
+  nav .material-symbols-outlined {
+    display: none;
+  }
+
+  nav ul {
     display: flex;
-    flex-direction: column;
+    gap: 2%;
+    margin-right: 2%;
   }
 
-  ul a {
-    color: white;
+  nav ul a {
+    color: #04385e;
   }
 
-  a img {
-    mix-blend-mode: multiply;
+  nav ul a:hover {
+    color: #fff;
+    background-color: #04385e;
+    border: solid #04385e 1px;
   }
 }
