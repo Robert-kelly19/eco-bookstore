@@ -40,7 +40,7 @@ nav ul {
 
 .sec1-2 h1 {
   text-align: center;
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: larger;
 }
 
@@ -144,7 +144,7 @@ a {
 
 .sec3-1 h1 {
   text-align: center;
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: 250%;
   margin-top: 20%;
 }
@@ -164,7 +164,7 @@ a {
 
 .book h4 {
   text-align: center;
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: x-large;
   margin-top: -9%;
 }
@@ -219,18 +219,18 @@ a {
 .sec4 p {
   text-align: center;
   font-size: medium;
-  font-family: "lora", serif;
+  font-family: 'lora', serif;
 }
 
 
 .sec5 p {
   text-align: center;
   font-size: medium;
-  font-family: "lora", serif;
+  font-family: 'lora', serif;
 }
 
 .foot p {
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: medium;
   text-align: center;
   font-weight: lighter;
@@ -255,7 +255,7 @@ a {
 
 .sec4 h1 {
   text-align: center;
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: 250%;
   margin-top: 20%;
 }
@@ -269,7 +269,7 @@ a {
 
 .sec4-1 h4 {
   text-align: center;
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: x-large;
   margin-top: 1%;
 }
@@ -284,7 +284,7 @@ a {
 
 .sec5 h1 {
   text-align: center;
-  font-family: "Chicle", serif;
+  font-family: 'Chicle', serif;
   font-size: 250%;
   margin-top: auto;
 }
