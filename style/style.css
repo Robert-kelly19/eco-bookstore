@@ -222,7 +222,6 @@ a {
   font-family: lora, serif;
 }
 
-
 .sec5 p {
   text-align: center;
   font-size: medium;
@@ -310,13 +309,13 @@ footer {
   width: 70%;
 }
 
-.foot ul {
+.foot ol {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.foot ul a {
+.foot ol a {
   color: #fff;
 }
 
