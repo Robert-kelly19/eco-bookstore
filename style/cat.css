@@ -272,11 +272,11 @@ main {
 
   small {
     text-decoration: line-through;
-    font-family: lora, sans-serif,Times, serif;
+    font-family: lora, sans-serif, Times, serif;
   }
 }
 
-Article {
+article {
   text-align: center;
   margin-top: 10%;
 }
